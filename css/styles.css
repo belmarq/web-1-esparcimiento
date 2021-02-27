@@ -1,0 +1,20 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.menu {
+    width: 15%;
+}
+.portfolio {
+    width: 85%;
+}
+.item {
+    width: 100%;
+    clear: both;
+}
+.item img {
+    float: left
+}
